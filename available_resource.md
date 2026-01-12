@@ -17,8 +17,8 @@
 | Network Analysis | SAP Network Visualization | Status-Based Network Coloring | Pewarnaan jaringan berdasarkan kondisi air dan ambang batas operasional. | N | N | N |
 | Network Analysis | SAP Network Visualization | Critical Node Highlight | Penandaan titik kritis jaringan (bottleneck, overflow, low water level). | N | N | N |
 | **Data Contextualization** | Weather Data Integration | Real-Time Weather Data | Integrasi data cuaca (curah hujan, suhu, kelembaban) dari API eksternal. | Y | Y | |
-| Data Contextualization | Weather Data Integration | Weather Forecast View | Visualisasi prakiraan cuaca untuk mendukung perencanaan irigasi. | Y | Y | |
-| Data Contextualization | Soil Moisture Integration | Soil Moisture Monitoring | Integrasi dan visualisasi data kelembaban tanah per lokasi. | Y | Y | |
+| Data Contextualization | Weather Data Integration | Weather Forecast View | Visualisasi prakiraan cuaca untuk mendukung perencanaan irigasi. | Y | Y |Y |
+| Data Contextualization | Soil Moisture Integration | Soil Moisture Monitoring | Integrasi dan visualisasi data kelembaban tanah per lokasi. | Y | Y | Y|
 | Data Contextualization | Hydrology Data Integration | Hydrology Parameter View | Penyajian data hidrologi (water level, debit, volume) secara terintegrasi. | Y | Y | Y |
 | Data Contextualization | Unified Data Layer | Contextual Data Overlay | Overlay data cuaca, tanah, dan hidrologi pada peta dan grafik analitik. | N | N | N |
 | **Trend Analysis** | Time-Series Analytics | Time-Series Charts | Grafik tren berbasis waktu untuk water level, debit, curah hujan, dan soil moisture. | Y | Y | Y |
@@ -36,8 +36,3 @@
 | **Governance** | Audit & Traceability | Data Timestamp & Source | Setiap data dilengkapi timestamp dan sumber untuk kebutuhan audit dan validasi. | Y | Y | Y |
 
 ---
-
-**Document Information**
-- Total Features: 38
-- Main User Journey Stages: 10
-- Date: January 12, 2026
