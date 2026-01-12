@@ -17,21 +17,11 @@ import (
 )
 
 var WEBMASTER_EMAILS = M.SS{
-	`kiswono@gmail.com`: `Kiswono Prayogo`,
-	//`mcien02@gmail.com`: `Michael`,
-	//`dikaiyosh@gmail.com`:         `Dikaimin`,
-	//`ahmad.fajar260695@gmail.com`: `Ahmad Fajar Prasetiyo`,
-	//`haries.akbar@gmail.com`:      `Haries Maulana Akbar`,
-	`joshjosman@gmail.com`:        `Parluhutan Manurung`, // boss
-	`ida.sianipar@gmail.com`:      `Farida Sianipar`,     // istrinya
-	`joshuabonasuhul@hotmail.com`: `Joshua Bonasuhul`,    // anaknya
-	//`phamhoangtien1987@gmail.com`: `Pham Hoang Tien`,
-	`muhamad.alfan01@gmail.com`: `Muhamad Alfan`,
-	`ahmadhabibi7159@gmail.com`: `Ahmad Habibi`,
+	`xxxxxxx@gmail.com`: `Ahmad Habibi`,
 }
 
-const SUPPORT_EMAIL = `luwesofficial@gmail.com`
-const DEBUGGER_EMAIL = `kiswono+luwes@gmail.com`
+const SUPPORT_EMAIL = `xxxx@gmail.com`
+const DEBUGGER_EMAIL = `xxxxx@gmail.com`
 
 var PROJECT_NAME string
 var DOMAIN string
